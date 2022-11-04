@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mybatisStudy/IPersistence/IPersistence.iml" filepath="$PROJECT_DIR$/mybatisStudy/IPersistence/IPersistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisStudy/IPersistence_test/IPersistence_test.iml" filepath="$PROJECT_DIR$/mybatisStudy/IPersistence_test/IPersistence_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisStudy/design_pattern/design_pattern.iml" filepath="$PROJECT_DIR$/mybatisStudy/design_pattern/design_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisStudy/mybatis_multitable/mybatis_multitable.iml" filepath="$PROJECT_DIR$/mybatisStudy/mybatis_multitable/mybatis_multitable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisStudy/mybatis_quickStarter/mybatis_quickStarter.iml" filepath="$PROJECT_DIR$/mybatisStudy/mybatis_quickStarter/mybatis_quickStarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/study.iml" filepath="$PROJECT_DIR$/.idea/study.iml" />
+    </modules>
+  </component>
+</project>
