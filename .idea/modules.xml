@@ -4,7 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/mybatisStudy/IPersistence/IPersistence.iml" filepath="$PROJECT_DIR$/mybatisStudy/IPersistence/IPersistence.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatisStudy/IPersistence_test/IPersistence_test.iml" filepath="$PROJECT_DIR$/mybatisStudy/IPersistence_test/IPersistence_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springStudy/demo-ioc-aop/demo-ioc-aop.iml" filepath="$PROJECT_DIR$/springStudy/demo-ioc-aop/demo-ioc-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springStudy/demo-others/demo-others.iml" filepath="$PROJECT_DIR$/springStudy/demo-others/demo-others.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatisStudy/design_pattern/design_pattern.iml" filepath="$PROJECT_DIR$/mybatisStudy/design_pattern/design_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springStudy/lagou-transfer/lagou-transfer.iml" filepath="$PROJECT_DIR$/springStudy/lagou-transfer/lagou-transfer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springStudy/lagou-transfer-ioc-anno/lagou-transfer-ioc-anno.iml" filepath="$PROJECT_DIR$/springStudy/lagou-transfer-ioc-anno/lagou-transfer-ioc-anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springStudy/lagou-transfer-ioc-xml-anno/lagou-transfer-ioc-xml-anno.iml" filepath="$PROJECT_DIR$/springStudy/lagou-transfer-ioc-xml-anno/lagou-transfer-ioc-xml-anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springStudy/lagou-transfer-iocxml/lagou-transfer-iocxml.iml" filepath="$PROJECT_DIR$/springStudy/lagou-transfer-iocxml/lagou-transfer-iocxml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springStudy/lagou-transfer-transaction/lagou-transfer-transaction.iml" filepath="$PROJECT_DIR$/springStudy/lagou-transfer-transaction/lagou-transfer-transaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatisStudy/mybatis_multitable/mybatis_multitable.iml" filepath="$PROJECT_DIR$/mybatisStudy/mybatis_multitable/mybatis_multitable.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatisStudy/mybatis_quickStarter/mybatis_quickStarter.iml" filepath="$PROJECT_DIR$/mybatisStudy/mybatis_quickStarter/mybatis_quickStarter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/study.iml" filepath="$PROJECT_DIR$/.idea/study.iml" />

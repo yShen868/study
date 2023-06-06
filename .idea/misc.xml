@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springStudy/lagou-transfer" />
+    <file type="web" url="file://$PROJECT_DIR$/springStudy/lagou-transfer-ioc-anno" />
+    <file type="web" url="file://$PROJECT_DIR$/springStudy/lagou-transfer-ioc-xml-anno" />
+    <file type="web" url="file://$PROJECT_DIR$/springStudy/lagou-transfer-iocxml" />
+    <file type="web" url="file://$PROJECT_DIR$/springStudy/lagou-transfer-transaction" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -8,6 +15,13 @@
         <option value="$PROJECT_DIR$/mybatisStudy/IPersistence_test/pom.xml" />
         <option value="$PROJECT_DIR$/mybatisStudy/mybatis_multitable/pom.xml" />
         <option value="$PROJECT_DIR$/mybatisStudy/mybatis_quickStarter/pom.xml" />
+        <option value="$PROJECT_DIR$/springStudy/demo-ioc-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/springStudy/demo-others/pom.xml" />
+        <option value="$PROJECT_DIR$/springStudy/lagou-transfer/pom.xml" />
+        <option value="$PROJECT_DIR$/springStudy/lagou-transfer-ioc-anno/pom.xml" />
+        <option value="$PROJECT_DIR$/springStudy/lagou-transfer-ioc-xml-anno/pom.xml" />
+        <option value="$PROJECT_DIR$/springStudy/lagou-transfer-iocxml/pom.xml" />
+        <option value="$PROJECT_DIR$/springStudy/lagou-transfer-transaction/pom.xml" />
       </list>
     </option>
   </component>

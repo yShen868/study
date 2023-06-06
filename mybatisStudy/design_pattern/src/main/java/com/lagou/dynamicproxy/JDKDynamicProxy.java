@@ -16,7 +16,8 @@ public class JDKDynamicProxy implements InvocationHandler {
 
     //获取代理对象
     public Object getTarget(){
-        Object proxyInstance = Proxy.newProxyInstance(person.getClass().getClassLoader(), person.getClass().getInterfaces(), this);
+        Object proxyInstance = Proxy.newProxyInstance(person.getClass().getClassLoader(),
+                person.getClass().getInterfaces(), this);
 
         return proxyInstance;
     }

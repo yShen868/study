@@ -1,6 +1,8 @@
 package com.lagou.test;
 
+import com.lagou.mapper.IRoleMapper;
 import com.lagou.mapper.IUserMapper;
+import com.lagou.pojo.Role;
 import com.lagou.pojo.User;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
@@ -11,6 +13,11 @@ import org.junit.Test;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.lang.reflect.InvocationHandler;
+import java.lang.reflect.Method;
+import java.lang.reflect.Proxy;
+import java.util.ArrayList;
+import java.util.List;
 
 public class CacheTest {
 
@@ -45,6 +52,36 @@ public class CacheTest {
 
 
         System.out.println(user1 == user2);
+    }
+
+    public static void main(String[] args) {
+
+        IRoleMapper o = (IRoleMapper) Proxy.newProxyInstance(IRoleMapper.class.getClassLoader(),
+                new Class[]{IRoleMapper.class}, new InvocationHandler() {
+
+                    @Override
+                    public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
+                        List<Role> list = new ArrayList<>();
+//                        System.out.println("over");
+//                        if (args[0].toString().equals("0")) {
+//                            Role role = new Role();
+//                            role.setId(0);
+//                            role.setRoleName("1");
+//                            role.setRoleDesc("1");
+//                            list.add(role);
+//                            return list;
+//                        }
+//                        Object invoke = method.invoke(this, args);
+//                        System.out.println("invoke:{}"+invoke);
+                        return list;
+                    }
+                });
+
+
+        List<Role> roleByUid = o.findRoleByUid(1);
+
+        System.out.println(roleByUid);
+
     }
 
 

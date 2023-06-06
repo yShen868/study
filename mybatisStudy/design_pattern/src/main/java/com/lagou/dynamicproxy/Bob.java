@@ -6,4 +6,9 @@ public class Bob implements Person {
     public void doSomething() {
         System.out.println("Bob doing Something");
     }
+
+    @Override
+    public String haha() {
+        return "haha";
+    }
 }

@@ -7,16 +7,30 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="IPersistence_test" />
-        <module name="mybatis_quickStarter" />
         <module name="design_pattern" />
         <module name="mybatis_multitable" />
+        <module name="demo-others" />
+        <module name="lagou-transfer-ioc-xml-anno" />
+        <module name="lagou-transfer-iocxml" />
+        <module name="lagou-transfer" />
+        <module name="mybatis_quickStarter" />
+        <module name="lagou-transfer-ioc-anno" />
         <module name="IPersistence" />
+        <module name="demo-ioc-aop" />
+        <module name="lagou-transfer-transaction" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="demo-ioc-aop" target="1.5" />
+      <module name="demo-others" target="11" />
       <module name="design_pattern" target="1.8" />
       <module name="IPersistence" target="1.8" />
       <module name="IPersistence_test" target="1.8" />
+      <module name="lagou-transfer" target="11" />
+      <module name="lagou-transfer-ioc-anno" target="11" />
+      <module name="lagou-transfer-ioc-xml-anno" target="11" />
+      <module name="lagou-transfer-iocxml" target="11" />
+      <module name="lagou-transfer-transaction" target="11" />
       <module name="mybatis_multitable" target="1.8" />
       <module name="mybatis_quickStarter" target="1.8" />
     </bytecodeTargetLevel>

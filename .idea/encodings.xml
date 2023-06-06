@@ -11,5 +11,15 @@
     <file url="file://$PROJECT_DIR$/mybatisStudy/mybatis_multitable/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatisStudy/mybatis_quickStarter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatisStudy/mybatis_quickStarter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springStudy/lagou-transfer-ioc-anno/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springStudy/lagou-transfer-ioc-anno/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springStudy/lagou-transfer-ioc-xml-anno/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springStudy/lagou-transfer-ioc-xml-anno/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springStudy/lagou-transfer-iocxml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springStudy/lagou-transfer-iocxml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springStudy/lagou-transfer-transaction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springStudy/lagou-transfer-transaction/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springStudy/lagou-transfer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springStudy/lagou-transfer/src/main/resources" charset="UTF-8" />
   </component>
 </project>
